@@ -1,3 +1,7 @@
+#Mike Foley  @mikefoley  mike@yelof.com
+#Uses Write-Menu from http://www.ps1code.com/single-post/2016/04/21/How-to-create-interactive-dynamic-Menu-in-PowerShell
+#
+
 $viserver = "mgt-vc-e-01.lab1.local"
 $user = "administrator@vsphere.local"
 $password = "VMware1!"
